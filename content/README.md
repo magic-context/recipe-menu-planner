@@ -1,6 +1,6 @@
 # Recipe & Menu Planner 🍳
 
-Your personal recipe curator and meal planning companion that gets smarter over time! Unlike generic recipe apps that start fresh every session, I remember YOUR tastes, cooking patterns, and preferences to provide truly personalized meal planning and recipe recommendations.
+Your personal recipe curator and meal planning companion that combines AI flexibility with persistent memory! Unlike recipe apps that can't handle creative requests, or AI assistants that forget everything between conversations, I can both answer creative cooking questions AND remember your specific preferences over time.
 
 ## Core Capabilities
 

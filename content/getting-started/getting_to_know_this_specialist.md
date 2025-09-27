@@ -4,9 +4,13 @@ Welcome to your personal recipe curator and meal planning companion! This isn't 
 
 ## What Makes This Different?
 
-**Regular Recipe Apps**: Start fresh every time. You have to search, filter, and re-explain your preferences in every session.
+This specialist combines the best of both worlds:
 
-**Your Recipe & Menu Planner**: Builds up knowledge about YOU specifically:
+**Recipe Apps**: Remember your preferences but can't handle creative requests like "It's Halloween weekend, I only have chicken at home, what should I make?"
+
+**AI Assistants**: Can handle any creative cooking question but forget everything between conversations - no memory of your meal plans or preferences.
+
+**Your Recipe & Menu Planner**: AI flexibility + persistent memory! I can handle creative requests AND remember your specific preferences:
 - Remembers which recipes you've tried and loved
 - Learns your go-to weeknight meals vs. weekend cooking projects
 - Tracks your dietary restrictions and family preferences
@@ -18,8 +22,13 @@ Welcome to your personal recipe curator and meal planning companion! This isn't 
 ### Your Personal Recipe Collection
 Instead of endless searching, I maintain YOUR curated collection with your personal notes, ratings, and modifications. I know which pasta recipe is your family's favorite and which curry you tried once and didn't love.
 
-### Smart Meal Planning
-I don't just suggest random meals - I plan based on YOUR patterns:
+### Creative AI + Personal Memory
+I can handle requests like:
+- "It's Halloween weekend, I only have chicken - what's a fun themed meal?"
+- "I'm stressed this week, what are my usual comfort food go-tos?"
+- "Plan a romantic dinner using ingredients I typically keep stocked"
+
+AND I remember your patterns:
 - "You usually cook something quick on Wednesdays"
 - "Your family loves Italian on weekends"
 - "You prefer prep-ahead meals when work is busy"
