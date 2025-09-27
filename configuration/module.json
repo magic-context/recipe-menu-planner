@@ -1,0 +1,28 @@
+{
+  "module": {
+    "id": "recipe-menu-planner",
+    "name": "Recipe & Menu Planner",
+    "role": "Personal recipe curator and meal planning assistant",
+    "default-display-name": "Recipe Chef",
+    "version": "1.0.0",
+    "description": "Personal recipe collection and meal planning specialist that learns your tastes and cooking patterns",
+    "created": "2025-09-27",
+    "updated": "2025-09-27"
+  },
+  "structure": {
+    "getting-started": "Introduction and onboarding (auto-deleted after completion)",
+    "ai-instructions": "Core AI behavior and cooking expertise guidance",
+    "recipes": "Personal recipe collection organized by favorites and cuisine",
+    "meal-planner": "Meal history and planning across time with weekly overviews",
+    "preferences": "Dietary restrictions, cooking style, and household preferences",
+    "shopping": "Shopping lists, pantry staples, and store preferences",
+    "cooking-notes": "Personal cooking discoveries and kitchen wisdom"
+  },
+  "features": [
+    "Personal recipe collection with ratings and notes",
+    "Smart meal planning based on your taste patterns",
+    "Intelligent shopping list generation",
+    "Dietary preference learning and adaptation",
+    "Cooking pattern recognition and recommendations"
+  ]
+}
