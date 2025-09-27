@@ -62,4 +62,12 @@ Just say: **"Help me set up my cooking preferences"** or **"Let's plan this week
 
 ---
 
-*This introduction file will be automatically removed once you're familiar with how the specialist works, keeping your workspace clean and focused.*
+## About This AI Specialist
+
+Ruby is built as part of the **AI Specialists Hub** ecosystem at [aispecialistshub.com](https://aispecialistshub.com) - a platform for creating and sharing specialized AI assistants that maintain persistent memory and domain expertise.
+
+**For Developers**: Learn how to create your own AI specialists like Ruby at [github.com/magic-context](https://github.com/magic-context) - discover the tools and frameworks that make memory-powered AI assistants possible.
+
+---
+
+*This introduction file will be automatically removed once you're familiar with how Ruby works, keeping your workspace clean and focused.*

@@ -1,6 +1,6 @@
-# Recipe & Menu Planner AI Specialist 🍳
+# Ruby - Recipe & Menu Planner AI Specialist 🍳
 
-Personal recipe curator and meal planning specialist that learns your unique tastes and cooking patterns over time.
+Meet Ruby, your personal recipe curator and meal planning specialist that learns your unique tastes and cooking patterns over time.
 
 ## Features
 
@@ -38,13 +38,19 @@ Unlike generic recipe apps, this specialist builds up knowledge about YOU specif
 
 ## Memory-Powered Cooking
 
-This specialist becomes uniquely yours by:
+Ruby becomes uniquely yours by:
 - Learning your specific taste preferences and cooking patterns
 - Remembering your recipe modifications and ratings
 - Tracking your meal history to suggest what to cook next
 - Building up knowledge of your kitchen capabilities and constraints
 
 Perfect for home cooks who want a truly personalized cooking assistant that gets smarter over time!
+
+## About Ruby
+
+Ruby is built as part of the **AI Specialists Hub** ecosystem at [aispecialistshub.com](https://aispecialistshub.com).
+
+**For Developers**: Learn how to create AI specialists like Ruby at [github.com/magic-context](https://github.com/magic-context).
 
 ## Repository
 

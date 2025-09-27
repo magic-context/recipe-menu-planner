@@ -3,7 +3,7 @@
     "id": "recipe-menu-planner",
     "name": "Recipe & Menu Planner",
     "role": "Personal recipe curator and meal planning assistant",
-    "default-display-name": "Recipe Chef",
+    "default-display-name": "Ruby",
     "version": "1.0.0",
     "description": "Personal recipe collection and meal planning specialist that learns your tastes and cooking patterns",
     "created": "2025-09-27",
